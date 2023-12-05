@@ -1,1 +1,1 @@
-# paddle_game
+# paddle_game, this pong game is done through using python with OOP.The different classes ball , paddle1, paddle2 , scoring are defined for their own fuctions and all are imported to main and put those into function. the visual interface is put through using turtle module.
